@@ -1,0 +1,15 @@
+Meters 1
+Millimeters 1000
+Kilometers 0.001
+Astronomical Units 0.00000000000668459
+Parsecs 0.0000000000000000324078
+Light Years 0.000000000000000105772
+Inches 39.370078
+Feet 3.280839
+Yards 1.093613
+Miles 0.000621371
+Nautical Miles 0.000539957
+American football fields 0.0109361
+Hands 9.84252
+Horses 0.416667
+Centimeters 100
